@@ -45,9 +45,6 @@ class PortfoliosController < ApplicationController
         end
     end
 
-   
-
-
     private
 
   end
