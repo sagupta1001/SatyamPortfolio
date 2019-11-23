@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/sagupta1001/SatyamPortfolioViewTool
+  revision: f562e89c02f6bd6721c044e55a629109d596ff8c
+  specs:
+    satyam_portfolio_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -224,6 +230,7 @@ DEPENDENCIES
   puma (~> 3.11)
   rails (~> 6.0.0)
   sass-rails (~> 5)
+  satyam_portfolio_view_tool!
   spring
   spring-watcher-listen (~> 2.0.0)
   turbolinks (~> 5)

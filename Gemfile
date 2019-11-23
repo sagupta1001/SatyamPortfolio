@@ -52,3 +52,5 @@ gem 'devise'
 gem 'bootstrap', '~> 4.3.1'
 
 gem 'jquery-rails'
+
+gem 'satyam_portfolio_view_tool', git: "https://github.com/sagupta1001/SatyamPortfolioViewTool"
