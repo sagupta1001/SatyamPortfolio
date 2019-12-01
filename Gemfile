@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://rubygems.org/'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.4'
@@ -53,4 +53,4 @@ gem 'bootstrap', '~> 4.3.1'
 
 gem 'jquery-rails'
 
-gem 'satyam_portfolio_view_tool', git: "https://github.com/sagupta1001/SatyamPortfolioViewTool"
+gem 'satyam_portfolio_view_tool', '~> 0.1.0'
